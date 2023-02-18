@@ -1,0 +1,12 @@
+
+7
+java:S5164'"!Call "remove()" on "threadLocal".(É¹´“
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½¦ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(…˜º©
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğå¶¬şÿÿÿÿ
+O
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(û‹éúÿÿÿÿ
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(‡èñÉ8¥ø¤§©0
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(“²ıøÿÿÿÿ8÷‚¦§©0

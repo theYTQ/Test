@@ -1,0 +1,14 @@
+
+[
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(ðòèä
+a
+java:S3252"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(³ØÙÑþÿÿÿÿ
+`
+java:S3252"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(ªƒÌ¨ÿÿÿÿÿ
+Z
+java:S3252!"DUse static access with "com.alibaba.fastjson.JSON" for "parseArray".(ÕÉ½µ
+\
+java:S3252!"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(ÕÉ½µ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ÝÛæ‹
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(çž’£
