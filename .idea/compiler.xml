@@ -7,13 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Example" />
+        <module name="HeadFirstDesignPatterns" />
         <module name="SpringBootDemo" />
+        <module name="Example" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
-      <module name="Example" target="9" />
-      <module name="SpringBootDemo" target="1.8" />
+      <module name="HeadFirstDesignPatterns (1)" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

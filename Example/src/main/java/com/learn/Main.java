@@ -1,7 +1,9 @@
 package com.learn;
 
 import com.alibaba.fastjson.JSON;
+import com.google.common.collect.Lists;
 import com.learn.juejin.Animal;
+import org.apache.commons.collections4.CollectionUtils;
 
 import java.text.DateFormat;
 import java.text.ParseException;
@@ -12,6 +14,14 @@ import java.util.concurrent.Callable;
 public class Main {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello World!");
+    }
+
+    private static void test() {
+        ArrayList<Integer> list1 = Lists.newArrayList(1, 2, 3);
+        ArrayList<Integer> list2 = Lists.newArrayList(3,1,2);
+
+        boolean equal = CollectionUtils.isEqualCollection(list1, list2);
+        System.out.println(equal);
     }
 
     public static List<List<Integer>> groupThePeople(int[] groupSizes) {
